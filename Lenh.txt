@@ -1,0 +1,6 @@
+java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar
+
+
+npm innit
+npm install aws-sdk
+npm install express
